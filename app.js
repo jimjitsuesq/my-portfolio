@@ -21,10 +21,18 @@ app.get('/project/:id', (req, res) => {
     res.render('project.pug', projects[id]);
 });
 
-app.listen(3000, () => {
-  console.log('The application is running on localhost:3000!');
+app.get('/favicon.ico', function(req, res) { 
+  res.status(204);
+  res.end();    
 });
 
+// app.listen(3000, '0.0.0.0');
+
+// Listen to the App Engine-specified port, or 8080 otherwise
+const PORT = process.env.PORT || 8080;
+app.listen(PORT, () => {
+  console.log(`Server listening on port ${PORT}...`);
+});
 /**
  * A custom error route used to simulate 500 errors for testing purposes
  */

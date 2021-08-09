@@ -17,7 +17,7 @@
         "live_link": "https://portfolio-sql-library-manager.wn.r.appspot.com/books",
         "github_link": "https://github.com/jimjitsuesq/portfolio-sql-library-manager",
         "thumbnail_url": "./images/SqlLibraryManager/BookCollectionSquare.jpg",
-        "image_urls": ["../images/SqlLibraryManager/BookCollection.jpg",  "../images/SqlLibraryManager/BookCollection2.jpg",  "../SqlLibraryManager/BookCollection3.jpg"]
+        "image_urls": ["../images/SqlLibraryManager/BookCollection.jpg",  "../images/SqlLibraryManager/BookCollection2.jpg",  "../images/SqlLibraryManager/BookCollection3.jpg"]
     },
     {
         "id": 2,

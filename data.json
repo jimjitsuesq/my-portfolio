@@ -1,5 +1,25 @@
 { "projects" : [
     {
+        "id": 5,
+        "project_name": "Flickr Search App",
+        "description": "A search gallery app using the Flickr API.",
+        "technologies": ["React", "JavaScript", "HTML", "CSS"],
+        "live_link": "https://flickr-react-gallery.netlify.app/",
+        "github_link": "https://github.com/jimjitsuesq/flickr-react-gallery",
+        "thumbnail_url": "./images/ReactGalleryApp/ReactAppSquare.jpg",
+        "image_urls": ["../images/ReactGalleryApp/ReactApp1.jpg",  "../images/ReactGalleryApp/ReactApp2.jpg",  "../images/ReactGalleryApp/ReactApp3.jpg"]
+    },
+    {
+        "id": 6,
+        "project_name": "Book Collection App",
+        "description": "An app to track a collection of books.",
+        "technologies": ["JavaScript", "MySQL", "Sequelize", "HTML", "CSS"],
+        "live_link": "https://portfolio-sql-library-manager.wn.r.appspot.com/books",
+        "github_link": "https://github.com/jimjitsuesq/portfolio-sql-library-manager",
+        "thumbnail_url": "./images/SqlLibraryManager/BookCollectionSquare.jpg",
+        "image_urls": ["../images/SqlLibraryManager/BookCollection.jpg",  "../images/SqlLibraryManager/BookCollection2.jpg",  "../SqlLibraryManager/BookCollection3.jpg"]
+    },
+    {
         "id": 0,
         "project_name": "Game Show App",
         "description": "A phrase guessing game similar to Wheel of Fortune or hangman.",
@@ -8,7 +28,7 @@
         "github_link": "https://github.com/jimjitsuesq/game-show-app",
         "thumbnail_url": "./images/gameShowApp/gameShowApp_square.png",
         "image_urls": ["../images/gameShowApp/gameShowApp_landscape_0.png",  "../images/gameShowApp/gameShowApp_landscape_1.png"]
-    } ,
+    },
     {
         "id": 1,
         "project_name": "Interactive Form",
@@ -48,25 +68,5 @@
         "github_link": "https://github.com/jimjitsuesq/student-directory",
         "thumbnail_url": "./images/StudentDirectory/StudentDirectory_square.png",
         "image_urls": ["../images/StudentDirectory/StudentDirectory_landscape_0.png",  "../images/StudentDirectory/StudentDirectory_landscape_1.png"]
-    },
-    {
-        "id": 5,
-        "project_name": "Flickr Search App",
-        "description": "A search gallery app using the Flickr API.",
-        "technologies": ["React", "JavaScript", "HTML", "CSS"],
-        "live_link": "https://flickr-react-gallery.netlify.app/",
-        "github_link": "https://github.com/jimjitsuesq/flickr-react-gallery",
-        "thumbnail_url": "./images/ReactGalleryApp/ReactAppSquare.jpg",
-        "image_urls": ["../images/ReactGalleryApp/ReactApp1.jpg",  "../images/ReactGalleryApp/ReactApp2.jpg",  "../images/ReactGalleryApp/ReactApp3.jpg"]
-    },
-    {
-        "id": 6,
-        "project_name": "Book Collection App",
-        "description": "An app to track a collection of books.",
-        "technologies": ["JavaScript", "MySQL", "Sequelize", "HTML", "CSS"],
-        "live_link": "https://portfolio-sql-library-manager.wn.r.appspot.com/books",
-        "github_link": "https://github.com/jimjitsuesq/portfolio-sql-library-manager",
-        "thumbnail_url": "./images/SqlLibraryManager/BookCollectionSquare.jpg",
-        "image_urls": ["../images/SqlLibraryManager/BookCollection.jpg",  "../images/SqlLibraryManager/BookCollection2.jpg",  "../SqlLibraryManager/BookCollection3.jpg"]
     }
 ]}

@@ -24,8 +24,8 @@
         "project_name": "Phrase Hunter App",
         "description": "A phrase guessing game similar to Wheel of Fortune or hangman.",
         "technologies": ["JavaScript", "HTML", "CSS"],
-        "live_link": "https://jimjitsuesq.github.io/game-show-app/",
-        "github_link": "https://github.com/jimjitsuesq/game-show-app",
+        "live_link": "https://jimjitsuesq.github.io/phrase-hunter/",
+        "github_link": "https://github.com/jimjitsuesq/phrase-hunter",
         "thumbnail_url": "./images/gameShowApp/gameShowApp_square.png",
         "image_urls": ["../images/gameShowApp/gameShowApp_landscape_0.png",  "../images/gameShowApp/gameShowApp_landscape_1.png"]
     },

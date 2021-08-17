@@ -21,8 +21,12 @@ block content
             li= technology
 
         a.btn-link(href= live_link target='_blank') Live Demo
-        a.btn-link(href= github_link target='_blank') GitHub Repo
-
+        if (github_client_link)
+            a.btn-link(href= github_client_link target='_blank') GitHub Repo (Client)
+        if (github_server_link)
+            a.btn-link(href= github_server_link target='_blank') GitHub Repo (Server)
+        if (github_link)
+            a.btn-link(href= github_link target='_blank') GitHub Repo
     .project-img-box.box
 
       ul 

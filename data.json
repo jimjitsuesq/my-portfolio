@@ -4,8 +4,9 @@
         "project_name": "Full-Stack Academic Curriculum Manager",
         "description": "An educational curriculum manager comprised of a NodJS/Express-powered API and a React frontend.",
         "technologies": ["NodeJS", "Express", "React", "JavaScript", "HTML", "CSS"],
-        "live_link": "https://portfolio-flickr-search.netlify.app/",
-        "github_link": "https://github.com/jimjitsuesq/portfolio-flickr-search",
+        "live_link": "https://ecstatic-mirzakhani-746a17.netlify.app/",
+        "github_client_link": "https://github.com/jimjitsuesq/portfolio-acm-client",
+        "github_server_link": "https://github.com/jimjitsuesq/portfolio-acm-server",
         "thumbnail_url": "./images/academic-curriculum-manager/ACM_square.jpg",
         "image_urls": ["../images/academic-curriculum-manager/ACM_landscape_0.jpg",  "../images/academic-curriculum-manager/ACM_landscape_1.jpg",  "../images/academic-curriculum-manager/ACM_landscape_2.jpg"]
     },
